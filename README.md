@@ -13,4 +13,4 @@ Our Project Titled “ Medicine Price Comparison Website” Will Compare Medicin
 
  
 
-[See it Live](https://github.com/ayushsrivastavaa/MedicineCompare)
+[See it Live](https://ayushsrivastavaa.github.io/MedicineCompare/)
